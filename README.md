@@ -14,4 +14,4 @@ HTML, CSS , JavaScript, EJS, NodeJS, MongoDB,
 Passport.
 
 # **View App**
-## https://farm2palm.herokuapp.com/
+## https://farm-2-palm.herokuapp.com/
